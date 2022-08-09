@@ -1,0 +1,10 @@
+{
+  "author": "Ben Martin",
+  "name": "nodemailer-gmail-example",
+  "version": "0.1.0",
+  "description": "Example showing how to use Gmail & Nodemailer to send email from Node.js",
+  "main": "main.js",
+  "keywords": ["email", "gmail", "nodemailer", "node", "nodejs"],
+  "license": "MIT",
+  "packageManager": "pnpm@7.9.0"
+}
